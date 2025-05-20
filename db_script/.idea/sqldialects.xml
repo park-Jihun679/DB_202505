@@ -13,6 +13,15 @@
     <file url="file://$PROJECT_DIR$/04_SQL심화/advanced/01_sqldb.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/04_SQL심화/advanced/02_employeesdb.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/04_SQL심화/basic/01_sqldb.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/05_테이블_뷰_테이블스페이스/advanced/01_ddl.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/05_테이블_뷰_테이블스페이스/advanced/02_view.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/05_테이블_뷰_테이블스페이스/basic/01_ddl.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/05_테이블_뷰_테이블스페이스/basic/03_ddl.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/05_테이블_뷰_테이블스페이스/basic/04_create_view.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/06_index/lecture/transaction/apple.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/06_index/lecture/transaction/mega.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/06_index/lecture/정규화/01_ddl.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/06_index/lecture/정규화/02_dml.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/5주차과제/sqldb.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/5주차과제/world.sql" dialect="MySQL" />
     <file url="PROJECT" dialect="MySQL" />
